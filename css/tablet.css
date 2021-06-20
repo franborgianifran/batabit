@@ -1,0 +1,13 @@
+.plans-container-slider{
+    display: flex;
+    justify-content: center;
+    width: 930px;
+    margin: 0 auto ;
+}
+.product-cards{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 930px;
+    max-width: 1050px;
+    margin: 0 auto;
+}
